@@ -1,0 +1,11 @@
+C:\Users\George\AppData\Local\Temporary Projects\DataBaseUI\bin\Debug\DataBaseUI.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\bin\Debug\mydb.accdb
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\bin\Debug\DataBaseUI.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\bin\Debug\DataBaseUI.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\bin\Debug\DataBaseUI.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\obj\Debug\DataBaseUI.Form1.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\obj\Debug\DataBaseUI.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\obj\Debug\DataBaseUI.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\obj\Debug\DataBaseUI.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\obj\Debug\DataBaseUI.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects\DataBaseUI\DataBaseUI\obj\Debug\DataBaseUI.csprojResolveAssemblyReference.cache
